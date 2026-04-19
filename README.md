@@ -59,20 +59,20 @@
 
 ### 📌 Featured projects
 
-#### ⚖️ Dad Afzar – Judiciary Platform (Samin Startup)
+#### ⚖️ Dadafzar – Judiciary Platform (Samin Startup)
 - Fixed bugs in declaration submission form
 - Made the entire app **responsive** (was not before)
 - Completed missing pages
 - Built with **React**
 - 🔗 [https://app.dadafzar.com/](https://app.dadafzar.com/)
 
-#### 🏢 Dad Afzar – Judicial Offices Panel (Samin Startup)
+#### 🏢 Dadafzar – Judicial Offices Panel (Samin Startup)
 - Bug fixing and responsive improvements
 - Built with **Next.js**
 
-#### 📊 Dad Afzar – Admin Dashboard (Samin Startup)
+#### 📊 Dadafzar – Admin Dashboard (Samin Startup)
 - Dashboard development for judicial platforms
-- Similar UI/UX pattern to the main Dad Afzar app
+- Similar UI/UX pattern to the main Dadafzar app
 - Built with **React**
 
 #### 🎨 Atelier Nik Andish
@@ -105,7 +105,7 @@
 
 **Frontend:**
 - Made a large non-responsive app fully responsive
-- Fixed critical form submission bugs in Dad Afzar
+- Fixed critical form submission bugs in Dadafzar
 - Built reusable MUI components for Behpardaz Barin
 - Implemented JWT authentication on the frontend
 
