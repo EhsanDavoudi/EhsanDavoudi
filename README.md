@@ -1,19 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ehsan Davoudi</h1>
-<h3 align="center">Frontend Developer | React, Next.js, TypeScript | ASP.NET & PHP Experience</h3>
-<h4 align="center">💻 Passionate about clean, responsive web apps • 🤖 Love coding & learning AI for fun</h4>
-
----
-
-### 👨‍💻 About me
-
-- 🎯 **Frontend focus** – React, Next.js, TypeScript, React Query, Tailwind CSS, Shadcn, Material-UI
-- ⚙️ **Backend experience** – ASP.NET, PHP, JWT authentication
-- 📚 **Learned** – Node.js, Laravel, Python
-- 🐳 **Basic Docker knowledge** (used in a team project)
-- 🤖 **Exploring AI/ML for fun** – just because I love programming
-- 📍 Based in **Mashhad, Iran**
-- 📧 ehsandavoudi370@gmail.com
-- 💬 Telegram: [@Ehsan_davoudii](https://t.me/Ehsan_davoudii)
+### 👋 Hi, I'm Ehsan Davoudi
+Frontend developer with focus on React and Next.js. I’ve built and fixed real-world admin panels, made large apps fully responsive, and collaborated in team environments. Currently looking for a junior frontend position where I can contribute, learn, and grow.
 
 ---
 
